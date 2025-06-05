@@ -24,6 +24,6 @@ With a focus on reliability and data integrity, JavaGuard provides a foundation 
   
   ![login](img/login.png)
 
-  ![after-login](img/after-login.png)
+ 
 
 
