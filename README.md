@@ -12,7 +12,7 @@ With a focus on reliability and data integrity, JavaGuard provides a foundation 
 * First, clone the repository and enter the folder
 
   ```bash
-  git clone https://github.com/sudoshivesh/SecureSign.git
+  git clone https://github.com/jaymehta1811/SecureSign.git
   cd SecureSign
   ```
   
@@ -26,4 +26,4 @@ With a focus on reliability and data integrity, JavaGuard provides a foundation 
 
   ![after-login](img/after-login.png)
 
-* For any query, You may conatct [Shivesh](https://wwww.linkedin.com/in/sudoshivesh/)
+
